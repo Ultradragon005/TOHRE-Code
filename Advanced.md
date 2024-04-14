@@ -374,6 +374,7 @@ Valid variables:
 
 Text Formatting:
 
+- `<title>exampleText</title>` Changes the title of current template, if unused it will default to "System Message". 
 - `<color=#[hex]>exampleText</color>` Changes the <font color=#ff5c00>C</font><font color=#ffba00>o</font><font color=#89ff00>l</font><font color=#3a6c93>o</font><font color=#42398b>r</font> of the text/font.
 - `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
 - `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
